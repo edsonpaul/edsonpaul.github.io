@@ -2664,10 +2664,11 @@ input, select, textarea {
 		}
 
 		.features article .image {
-			display: inline-block;
+			display: block;
 			padding-right: 2.5em;
-			vertical-align: middle;
-			width: 48%;
+			margin-bottom: 2.25em;
+			vertical-align: center;
+			width: 55%;
 		}
 
 			.features article .image img {
@@ -2676,7 +2677,7 @@ input, select, textarea {
 			}
 
 		.features article .inner {
-			display: inline-block;
+			display: inline;
 			vertical-align: middle;
 			width: 50%;
 		}
